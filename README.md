@@ -1,4 +1,4 @@
-### Hell, my name is Abraão Carvalho, I'm studying to become a programmer. 🤓👨🏾‍💻
+### Hello, my name is Abraão Carvalho, I'm studying to become a programmer. 🤓👨🏾‍💻
 
 <div align="center">
   <a href="https://github.com/abraaocrvlh42">
