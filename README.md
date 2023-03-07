@@ -1,4 +1,4 @@
-### Hello, my name is Abraão Carvalho, I'm studying to become a programmer. 🤓👨🏾‍💻
+### Hello, I'm Abraão Carvalho and I'm a Ruby / Ruby on Rails back-end developer. 🤓👨🏾‍💻
 
 <div align="center">
   <a href="https://github.com/abraaocrvlh42">
