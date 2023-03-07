@@ -1,4 +1,4 @@
-### Hello, I'm Abraão Carvalho and I'm a Ruby / Ruby on Rails back-end developer. 🤓👨🏾‍💻
+### Hi, I'm Abraão Carvalho, Ruby / Ruby on Rails backend developer. 🤓👨🏾‍💻
 
 <div align="center">
   <a href="https://github.com/abraaocrvlh42">
