@@ -1,4 +1,4 @@
-### Hi, my name is Abraão Carvalho, . 🤓👨🏾‍💻
+### Hi, my name is Abraão Carvalho,  🤓👨🏾‍💻
 
 <div align="center">
   <a href="https://github.com/abraaocrvlh42">
