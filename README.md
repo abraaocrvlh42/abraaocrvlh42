@@ -1,4 +1,4 @@
-### Hi, my name is Abraão Carvalho, I'm a back-end . 🤓👨🏾‍💻
+### Hi, my name is Abraão Carvalho, I'm a back-end. 🤓👨🏾‍💻
 
 <div align="center">
   <a href="https://github.com/abraaocrvlh42">
