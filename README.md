@@ -1,4 +1,4 @@
-### Hi, my name i Abraão Carvalho, I'm a software engineer. 🤓👨🏾‍💻
+### Hi, my name is Abraão Carvalho, I'm a software engineer. 🤓👨🏾‍💻
 
 <div align="center">
   <a href="https://github.com/abraaocrvlh42">
