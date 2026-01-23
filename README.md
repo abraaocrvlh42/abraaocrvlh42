@@ -54,8 +54,18 @@ Me chamo Abraão Carvalho, tenho 31 anos e sou natural de Belém do Pará. Atual
     title="Node"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg"
 />
+
+<img 
+    align="left" 
+    alt="Ruby" 
+    title="Ruby"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="Ruby" 
