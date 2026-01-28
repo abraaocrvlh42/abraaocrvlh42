@@ -16,7 +16,7 @@ Me chamo Abraão Carvalho, tenho 31 anos e sou natural de Belém do Pará. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img 
+<img
     align="left" 
     alt="CSS" 
     title="CSS"
