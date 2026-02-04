@@ -68,11 +68,11 @@ Me chamo Abraão Carvalho, tenho 31 anos e sou natural de Belém do Pará. Atual
 
 <img 
     align="left" 
-    alt="Spring" 
-    title="Spring"
+    alt=".NET" 
+    title=".NET"
     width="33px"
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" 
 />
 
 <img 
